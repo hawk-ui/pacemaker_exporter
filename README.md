@@ -12,13 +12,13 @@
 ## Getting
 
 ```
-$ go get github.com/mjtrangoni/pacemaker_exporter
+$ go get github.com/hawk-ui/pacemaker_exporter
 ```
 
 ## Building
 
 ```
-$ cd $GOPATH/src/github.com/mjtrangoni/pacemaker_exporter
+$ cd $GOPATH/src/github.com/hawk-ui/pacemaker_exporter
 $ make
 ```
 
