@@ -1,7 +1,7 @@
 go:
     cgo: false
 repository:
-    path: github.com/mjtrangoni/pacemaker_exporter
+    path: github.com/hawk-ui/pacemaker_exporter
 build:
     binaries:
         - name: pacemaker_exporter
