@@ -1,4 +1,4 @@
-# Pacemaker Exporter [![Build Status](https://travis-ci.org/mjtrangoni/pacemaker_exporter.svg)][travis]
+# Pacemaker Exporter ![Build Status](https://travis-ci.org/mjtrangoni/pacemaker_exporter.svg)
 
 [![CircleCI](https://circleci.com/gh/mjtrangoni/pacemaker_exporter.svg?style=svg)](https://circleci.com/gh/mjtrangoni/pacemaker_exporter)
 [![GoDoc](https://godoc.org/github.com/mjtrangoni/pacemaker_exporter?status.svg)](https://godoc.org/github.com/mjtrangoni/pacemaker_exporter)
