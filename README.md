@@ -52,17 +52,3 @@ This exporter run `crm_mon -X`, and parse its XML output.
 | tickets          | not implemented |         |
 | bans             | implemented     | enabled |
 | failures         | implemented     | enabled |
-
-## Dashboards
-
- 1. [TODO:Grafana Dashboard]()
-
-## Contributing
-
-Refer to [CONTRIBUTING.md](https://github.com/mjtrangoni/pacemaker_exporter/blob/master/CONTRIBUTING.md)
-
-## License
-
-Apache License 2.0, see [LICENSE](https://github.com/mjtrangoni/mjtrangoni/blob/master/LICENSE).
-
-[travis]: https://travis-ci.org/mjtrangoni/pacemaker_exporter
