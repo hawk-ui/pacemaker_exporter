@@ -1,12 +1,3 @@
-# Pacemaker Exporter ![Build Status](https://travis-ci.org/mjtrangoni/pacemaker_exporter.svg)
-
-[![CircleCI](https://circleci.com/gh/mjtrangoni/pacemaker_exporter.svg?style=svg)](https://circleci.com/gh/mjtrangoni/pacemaker_exporter)
-[![GoDoc](https://godoc.org/github.com/mjtrangoni/pacemaker_exporter?status.svg)](https://godoc.org/github.com/mjtrangoni/pacemaker_exporter)
-[![Coverage Status](https://coveralls.io/repos/github/mjtrangoni/pacemaker_exporter/badge.svg?branch=master)](https://coveralls.io/github/mjtrangoni/pacemaker_exporter?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mjtrangoni/pacemaker_exporter)](https://goreportcard.com/report/github.com/mjtrangoni/pacemaker_exporter)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/00e03e600d5744d1a2cc21d98e2f8273)](https://www.codacy.com/app/mjtrangoni/pacemaker_exporter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mjtrangoni/pacemaker_exporter&amp;utm_campaign=Badge_Grade)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/mjtrangoni/pacemaker_exporter/master/LICENSE)
-
 [Prometheus](https://prometheus.io/) exporter for [Pacemaker](https://github.com/ClusterLabs/pacemaker) cluster resource manager.
 
 ## Getting
