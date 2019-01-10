@@ -13,8 +13,8 @@
 
 GO                      ?= GO15VENDOREXPERIMENT=1 go
 GOPATH                  := $(firstword $(subst :, ,$(shell $(GO) env GOPATH)))
-PROMU                   ?= $(GOPATH)/bin/promu
-GODEP                   ?= $(GOPATH)/bin/dep
+PROMU                   ?= /usr/bin/promu
+GODEP                   ?= /usr/bin/dep
 GOLINTER                ?= $(GOPATH)/bin/gometalinter
 pkgs                    = $(shell $(GO) list ./... | grep -v /vendor/)
 TARGET                  ?= pacemaker_exporter
