@@ -19,7 +19,7 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/mjtrangoni/pacemaker_exporter/collector"
+	"github.com/hawk-ui/pacemaker_exporter/collector"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/prometheus/common/log"
